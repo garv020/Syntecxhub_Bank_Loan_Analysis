@@ -1,7 +1,9 @@
 #BANK LOAN ANALYSIS — INTERNSHIP PROJECT
+
 #SyntecxHub
 
 FOLDER STRUCTURE
+
 Bank_Loan_Analysis_Final/
 │
 ├── README.txt                          ← You are here
