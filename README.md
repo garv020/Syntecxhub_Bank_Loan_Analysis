@@ -5,17 +5,29 @@
 FOLDER STRUCTURE
 
 Bank_Loan_Analysis_Final/
+
 │
+
 ├── README.txt                          ← You are here
+
 │
+
 ├── dashboard/
+
 │   └── index.html                      ← MAIN DASHBOARD (open this!)
+
 │
+
 ├── dataset/
+
 │   ├── bank_loan_data.csv              ← Raw dataset (38,576 rows, 31 cols)
+
 │   └── bank_loan_data_enriched.csv    ← With extra columns (36 cols)
+
 │
+
 └── excel/
+
     └── Bank_Loan_Analysis.xlsx         ← Pre-analyzed Excel (8 sheets)
 
 ─────────────────────────────────────────
